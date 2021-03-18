@@ -1,4 +1,4 @@
 {
-    "fileUris": ["https://raw.githubusercontent.com/luna1230/mslearn-add-and-size-disks-in-azure-virtual-machines/master/hkipr.sh"],
-    "commandToExecute": "./hkipr.sh"
+    "fileUris": ["https://raw.githubusercontent.com/eaglezzb/tmpcfg/master/europeipr.sh"],
+    "commandToExecute": "./europeipr.sh"
   }
